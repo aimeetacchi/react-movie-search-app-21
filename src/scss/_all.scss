@@ -1,6 +1,13 @@
 @import './vars';
-@import './grid';
 
 // Components -
-@import './nav';
-@import './footer';
+@import './components/grid';
+@import './components/base';
+@import './components/movie';
+@import './components/nav';
+@import './components/footer';
+
+// Pages -
+@import './pages/home';
+@import './pages/about';
+

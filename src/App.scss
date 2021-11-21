@@ -13,6 +13,11 @@ body {
   font-size: 1.6rem; // 16px;
 }
 
+a {
+  text-decoration: none;
+  color: $light;
+}
+
 h1,
 h2,
 h3,
